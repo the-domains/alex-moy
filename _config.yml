@@ -1,0 +1,28 @@
+name: 'Alex Moy '
+favicon: null
+layout_spectrum: 0.4300743592903018
+typography_spectrum: 0.4038704296108335
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.8877280673477799
+  lightness: 0.8078229886014014
+  saturation: 0.15861618355847895
+  rhythmicContrast: 0.052729935152456164
+purpose: []
